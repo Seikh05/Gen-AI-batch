@@ -1,6 +1,7 @@
 ## 📘 Assignment Summary
 
 [🔗 Open this Project in Google Colab](https://colab.research.google.com/drive/1FsGwwrZEeN1TKp8QnsYf6wbi1mYIBokT)
+
 **Documentation inside notebook**
 
 This notebook presents three key NLP tasks.  
